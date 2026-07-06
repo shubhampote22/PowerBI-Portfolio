@@ -1,2 +1,45 @@
-# PowerBI-Portfolio
-Interactive Power BI dashboards showcasing business intelligence, data visualization, DAX, Power Query, and analytical insights.
+# 📊 Power BI Portfolio
+
+Welcome to my Power BI portfolio!
+
+This repository contains end-to-end Business Intelligence projects built using Power BI, SQL, DAX, and Power Query.
+
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Power Query
+- SQL
+- Data Cleaning
+- Data Modeling
+- KPI Reporting
+- Dashboard Design
+- Business Intelligence
+
+---
+
+## Projects
+
+| Project | Description |
+|----------|-------------|
+| Sales Dashboard | Sales performance analysis with KPIs |
+| HR Analytics | Employee attrition and workforce insights |
+| Financial Dashboard | Revenue, profit, and expense analysis |
+| Customer Churn | Customer retention analysis |
+| Supply Chain | Inventory and logistics dashboard |
+
+---
+
+## Tools
+
+- Microsoft Power BI
+- SQL
+- Excel
+- Power Query
+- DAX
+
+---
+
+## About Me
+
+Data Analyst with experience in Power BI, Tableau, SQL, and business reporting.
