@@ -39,9 +39,5 @@ This repository contains end-to-end Business Intelligence projects built using P
 - DAX
 
 ---
-
-## About Me
-
-Data Analyst with experience in Power BI, Tableau, SQL, and business reporting.
 <img width="1298" height="728" alt="image" src="https://github.com/user-attachments/assets/2ac28336-9845-4e30-ac2b-255f3c8cd7c0" />
 
